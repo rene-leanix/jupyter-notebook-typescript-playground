@@ -1,0 +1,8 @@
+{
+  "name": "jupyter-notebook-typescript-playground",
+  "version": "1.0.0",
+  "dependencies": {
+    "itypescript": "^0.4.0",
+    "tslab": "^1.0.21"
+  }
+}
